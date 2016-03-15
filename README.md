@@ -1,4 +1,4 @@
-# AHMagicalTableViewHeader
+# AHExpandedNavigationBarTableHeaderView
 I made a quick header to mimic Spotify/Twitter apps functionality
 <<<<<<< HEAD
 
